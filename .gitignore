@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Large data and notebook artifacts
+energy_combined.csv
+Datasets/
+.ipynb_checkpoints/
