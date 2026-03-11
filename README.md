@@ -27,18 +27,18 @@ Exploratory data analysis and demand modeling on India power grid generation and
 Renamed columns:
 | Original | New |
 | --- | --- |
-| `TOTAL_THM_ONLY|P` | `thermal_mw` |
-| `TOTAL_NLDC_HYD|P` | `hydro_mw` |
-| `TOTAL_NLDC_GAS|P` | `gas_mw` |
-| `TOTAL_NLDC_NPC|P` | `nuclear_mw` |
-| `ALL_INDIA_WIND|P` | `wind_mw` |
-| `ALL_IND_SOLAR|P` | `solar_mw` |
+| `TOTAL_THM_ONLY P` | `thermal_mw` |
+| `TOTAL_NLDC_HYD P` | `hydro_mw` |
+| `TOTAL_NLDC_GAS P` | `gas_mw` |
+| `TOTAL_NLDC_NPC P` | `nuclear_mw` |
+| `ALL_INDIA_WIND P` | `wind_mw` |
+| `ALL_IND_SOLAR P` | `solar_mw` |
 | `Solar+Wind` | `solar_wind_mw` |
 | `Total` | `total_generation_mw` |
-| `NLDC_DEMAND|P` | `nldc_demand_mw` |
-| `INTRA_SYSTEM_INTERTIA|P` | `intra_system_inertia` |
-| `ER_Total_Inertia|P` | `er_total_inertia` |
-| `SYS_IN|P` | `sys_in` |
+| `NLDC_DEMAND P` | `nldc_demand_mw` |
+| `INTRA_SYSTEM_INTERTIA P` | `intra_system_inertia` |
+| `ER_Total_Inertia P` | `er_total_inertia` |
+| `SYS_IN P` | `sys_in` |
 | `SPARE 05` | `spare_05` |
 
 ## Feature Engineering
