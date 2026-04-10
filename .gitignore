@@ -13,3 +13,4 @@ wheels/
 energy_combined.csv
 Datasets/
 .ipynb_checkpoints/
+.vscode/
